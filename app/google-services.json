@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797783137456",
+    "project_id": "file-transfer-1e571",
+    "storage_bucket": "file-transfer-1e571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797783137456:android:20d68743d33aa2e646af75",
+        "android_client_info": {
+          "package_name": "com.manishdubey.filetransfer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2sKM6K-zDSju9sNSixioxH6sbYdVbwV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
